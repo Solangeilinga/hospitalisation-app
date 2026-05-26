@@ -62,4 +62,4 @@ if st.button("🔍 Prédire", use_container_width=True):
     st.progress(float(proba), text=f"Probabilité d'hospitalisation : {proba:.1%}")
 
 st.divider()
-st.caption("Projet IA — Prédiction hospitalisation aux urgences | Par Solange ILINGA")
+st.caption("Projet IA — Prédiction hospitalisation aux urgences")

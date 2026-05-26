@@ -68,7 +68,7 @@ Données brutes
 
 L'application permet de saisir les informations d'un patient et d'obtenir une prédiction en temps réel.
 
-**👉 [Accéder à l'application](#)** ← *(remplace par ton lien Streamlit)*
+**👉 [Accéder à l'application](https://hospitalisation-app-mwwmugbxfzwlhjdciybgez.streamlit.app/)**
 
 **Fonctionnalités :**
 - Formulaire de saisie des informations patient
@@ -90,19 +90,7 @@ hospitalisation-app/
 
 ---
 
-## 🛠️ Installation locale
 
-```bash
-# Cloner le repo
-git clone https://github.com/ton-username/hospitalisation-app.git
-cd hospitalisation-app
-
-# Installer les dépendances
-pip install -r requirements.txt
-
-# Lancer l'application
-streamlit run app.py
-```
 
 ---
 
